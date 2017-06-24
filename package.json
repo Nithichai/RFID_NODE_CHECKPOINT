@@ -1,0 +1,26 @@
+{
+  "name": "rfid_node_checkpoint",
+  "version": "1.0.0",
+  "description": "Checkpoint REST API use by nodejs",
+  "main": "app_rfid_new.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "dateformat": "^2.0.0",
+    "express": "^4.15.3",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nithichai/rfid_node_checkpoint.git"
+  },
+  "author": "Nopy and Mosza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nithichai/rfid_node_checkpoint/issues"
+  },
+  "homepage": "https://github.com/Nithichai/rfid_node_checkpoint#readme"
+}
